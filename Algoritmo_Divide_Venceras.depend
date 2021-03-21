@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616363227 source:c:\users\usuario\desktop\algoritmo_divide_venceras\main.cpp
+	<iostream>
+	"Punto.h"
+
+1616363036 c:\users\usuario\desktop\algoritmo_divide_venceras\punto.h
+	<bits/stdc++.h>
+
